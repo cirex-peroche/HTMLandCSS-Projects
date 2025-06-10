@@ -1,0 +1,15 @@
+/* one_page_website.css */
+
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+}
+
+input {
+    width: 300px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 20px;
+}
